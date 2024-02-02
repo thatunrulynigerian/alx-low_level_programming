@@ -1,1 +1,1 @@
-Dynamic Libraries
+Static Libraries
